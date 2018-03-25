@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2015
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-opentracing-grp", "netcore-opentracing-grp\netcore-opentracing-grp.csproj", "{76C16564-5FB7-4EE1-8BEA-E90B338FAC4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "netcore-opentracing-grp.tests", "netcore-opentracing-grp.tests\netcore-opentracing-grp.tests.csproj", "{6B6EA039-38A8-4C48-828B-8F4A036F6E92}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{76C16564-5FB7-4EE1-8BEA-E90B338FAC4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76C16564-5FB7-4EE1-8BEA-E90B338FAC4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76C16564-5FB7-4EE1-8BEA-E90B338FAC4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76C16564-5FB7-4EE1-8BEA-E90B338FAC4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B6EA039-38A8-4C48-828B-8F4A036F6E92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B6EA039-38A8-4C48-828B-8F4A036F6E92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B6EA039-38A8-4C48-828B-8F4A036F6E92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B6EA039-38A8-4C48-828B-8F4A036F6E92}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1DBDC484-C57C-423D-985D-86611CF8E432}
+	EndGlobalSection
+EndGlobal
